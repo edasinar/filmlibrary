@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3168a037-b84d-4ab1-a48a-eb19de0a170f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FilmLibrary.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FilmLibrary/FavoriteFilm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FilmLibrary/Film$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FilmLibrary/Film$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FilmLibrary/Film$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FilmLibrary/Film.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FilmLibrary/FilmComment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FilmLibrary/FilmDetails.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FilmLibrary/FilmRate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FilmLibrary/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FilmLibrary/Users.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FavoriteFilm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Film.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FilmComment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FilmDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FilmRate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Users.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2SIkPtA66ogJvRTVb7SIMEGVDA2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/edasi/Desktop/FilmLibrary",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3168a037-b84d-4ab1-a48a-eb19de0a170f" name="Changes" comment="" />
+      <created>1688841464537</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688841464537</updated>
+      <workItem from="1688841465606" duration="7346000" />
+      <workItem from="1688882590863" duration="4867000" />
+      <workItem from="1688935411017" duration="1120000" />
+      <workItem from="1688974840986" duration="11342000" />
+      <workItem from="1689002500244" duration="3118000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
